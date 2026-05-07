@@ -2,6 +2,13 @@
 
 This project is an end-to-end Power BI dashboard built on the **AdventureWorks** dataset. It provides interactive insights into sales performance, product demand, customer behavior, and shipping logistics. The dashboard is designed for business stakeholders to monitor key metrics and make data-driven decisions.
 
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/1.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/2.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/3.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/5.PNG" width="1000">
+<img src="https://github.com/muhammadsalahdine1/AdventureWorks-Power-BI-Project/blob/main/6.PNG" width="1000">
+
+
 ## 📊 Dashboard Features
 
 ### Key Performance Indicators (KPIs)
